@@ -1,0 +1,22 @@
+{
+  "name": "itvalid",
+  "version": "1.0.0",
+  "description": "symmetric active key encryption",
+  "main": "itvalid.js",
+  "scripts": {
+    "test": "echo \"TODO: tests!!!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/relative-chaos/itvalid.git"
+  },
+  "keywords": [
+    "MEM", "relative-chaos", "validation", "cryptogenom"
+  ],
+  "author": "js-coder@mail.ru",
+  "license": "SEE LICENSE IN ./MEM",
+  "bugs": {
+    "url": "https://github.com/relative-chaos/itvalid/issues"
+  },
+  "homepage": "https://relative-chaos.github.io"
+}
